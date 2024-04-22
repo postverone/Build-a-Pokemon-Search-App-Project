@@ -8,12 +8,19 @@ Objective: Build an app that is functionally similar to https://pokemon-search-a
 User Stories:
 
 You should have an input element with an id of "search-input"
+
 You should have a button element with an id of "search-button
+
 You should have an element with an id of "pokemon-name"
+
 You should have an element with an id of "pokemon-id"
+
 You should have an element with an id of "weight"
+
 You should have an element with an id of "height"
+
 You should have an element with an id of "types"
+
 You should have an element with an id of "hp"
 You should have an element with an id of "attack"
 You should have an element with an id of "defense"
